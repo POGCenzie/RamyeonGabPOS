@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/POGCenzie/RamyeonGabPOS/releases/download/v1.0.0/RamyeonPOS_1.0.0_win-x64.zip",
+  "sha256": "sha256:23d5d3ff85f83504338faa286bddfd2a5214ec4650194042fb3308e4c984076e",
+  "releaseNotes": "Initial RamyeonPOS release.",
+  "required": false
+}
